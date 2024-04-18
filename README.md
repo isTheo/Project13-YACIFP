@@ -1,7 +1,8 @@
-# InstaFilter or YACIFP
+# InstaFilter
 
 Project 13 from Hacking With Swift.
-This project demonstrates, although briefly, the capabilities of the Core Image framework for image manipulation
+
+This app allows users to apply various filters to their images, demonstrating, although briefly, the capabilities of the Core Image framework for image manipulation.
 
 ***Learned about:***
 - `Core Image` framework
